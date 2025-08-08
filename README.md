@@ -5,7 +5,6 @@
 
 A simple yet powerful Blender addon that streamlines the material creation process. Just drag and drop a texture onto an object, and the addon will automatically find and connect the entire PBR texture set.
 
-**(Recommended: Record a short GIF showing the drag-and-drop workflow and replace the link below.)**
 ![Smart Drag & Drop Demo]![T2ScVsLiCn](https://github.com/user-attachments/assets/0caf601d-15e7-44b5-ba72-50f9d63c02f0)
 
 
