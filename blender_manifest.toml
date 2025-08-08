@@ -11,8 +11,8 @@ maintainer = "Yurii Konoplov (shipworkshop)"
 # ОШИБКА 1: Исправлена минимальная версия Blender.
 blender_version_min = "4.2.0"
 
-name = "Smart Drag & Drop Texture Set"
-tagline = "Drag, drop, and get a full PBR material in seconds"
+name = "SHIP Drag and Drop Texture"
+tagline = "Drag & drop, and get a full PBR material in seconds"
 type = "add-on"
 license = ["SPDX:GPL-3.0-or-later"]
 
