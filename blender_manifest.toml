@@ -1,0 +1,23 @@
+# This file is required by extensions.blender.org
+# It must be named blender_manifest.toml
+
+schema_version = "1.0.0"
+
+# A unique identifier for your extension.
+id = "ship-dragndrop-texture"
+
+# Information that will be displayed on the website.
+name = "Smart Drag & Drop Texture Set"
+tagline = "Drag, drop, and get a full PBR material in seconds."
+type = "ADDON"
+
+# Tags for searching and filtering.
+tags = ["Material", "PBR", "Texture", "Workflow", "Drag and Drop", "Game Development"]
+
+# The license must match your GitHub repository's license.
+license = "GPL-3.0-or-later"
+
+# Links that will appear on your extension's page.
+website = "https://github.com/shipworkshop/SHIP-DragNDrop-Texture"
+documentation = "https://github.com/shipworkshop/SHIP-DragNDrop-Texture#readme"
+tracker = "https://github.com/shipworkshop/SHIP-DragNDrop-Texture/issues"
