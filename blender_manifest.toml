@@ -1,40 +1,23 @@
 # =============================================================
 #  Manifest for the Blender Extensions Platform
-#  Corrected according to validation errors.
+#  Final corrected version.
 # =============================================================
 
 schema_version = "1.0.0"
 id = "ship-dragndrop-texture"
-
-# --- Исправления на основе ошибок ---
-
-# ОШИБКА: "version" is missing.
-# РЕШЕНИЕ: Добавлено поле версии в формате строки.
 version = "1.1.0"
-
-# ОШИБКА: "blender_version_min" is missing.
-# РЕШЕНИЕ: Добавлено поле минимальной версии Blender.
-blender_version_min = "4.1.0"
-
-# ОШИБКА: "maintainer" is missing.
-# РЕШЕНИЕ: Добавлено поле ответственного за поддержку.
 maintainer = "Yurii Konoplov (shipworkshop)"
 
-# ОШИБКА: type expects "add-on" or "theme".
-# РЕШЕНИЕ: Изменено "ADDON" на "add-on" в нижнем регистре.
-type = "add-on"
+# ОШИБКА 1: Исправлена минимальная версия Blender.
+blender_version_min = "4.2.0"
 
 name = "Smart Drag & Drop Texture Set"
-
-# ОШИБКА: tagline cannot end with punctuation.
-# РЕШЕНИЕ: Убрана точка в конце строки.
 tagline = "Drag, drop, and get a full PBR material in seconds"
-
-# ОШИБКА: license expects a list, e.g., ['SPDX:GPL-3.0-or-later'].
-# РЕШЕНИЕ: Лицензия обернута в кавычки и квадратные скобки и добавлен префикс SPDX.
+type = "add-on"
 license = ["SPDX:GPL-3.0-or-later"]
 
-tags = ["Material", "PBR", "Texture", "Workflow", "Drag and Drop", "Game Development"]
+# ОШИБКА 2: Использованы только официальные теги из списка платформы.
+tags = ["Material", "Workflow", "Node", "User Interface"]
 
 website = "https://github.com/shipworkshop/SHIP-DragNDrop-Texture"
 documentation = "https://github.com/shipworkshop/SHIP-DragNDrop-Texture#readme"
