@@ -35,8 +35,8 @@ The addon's "Smart Apply" feature works by identifying a **base name** from the 
 
 ## Installation
 
-1.  Go to the [**Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page.
-2.  Download the latest `smart_texture_drop.zip` file.
+1.  Go to the [**Releases**](https://github.com/shipworkshop/SHIP-DragNDrop-Texture/releases) page.
+2.  Download the latest `SHIP-DragNDrop-Texture-main.zip` file.
 3.  In Blender, go to `Edit` > `Preferences` > `Add-ons`.
 4.  Click `Install...` and select the downloaded `.zip` file.
 5.  Enable the "Smart Drag & Drop" addon by checking the box.
