@@ -1,4 +1,3 @@
-# Save this code in a file named __init__.py
 bl_info = {
     "name": "Smart Drag & Drop Texture Set",
     "author": "Yurii Konoplov, Gemini",
