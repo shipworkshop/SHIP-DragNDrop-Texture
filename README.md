@@ -40,6 +40,7 @@ The addon's "Smart Apply" feature works by identifying a **base name** from the 
 3.  In Blender, go to `Edit` > `Preferences` > `Add-ons`.
 4.  Click `Install...` and select the downloaded `.zip` file.
 5.  Enable the "Smart Drag & Drop" addon by checking the box.
+Or just Drag & Drop zip to your Blender window!
 
 ## Usage
 
