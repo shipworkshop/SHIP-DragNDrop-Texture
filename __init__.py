@@ -6,7 +6,7 @@ bl_info = {
     "location": "3D Viewport & F9 Panel",
     "description": "Drag and drop a texture onto an object. The addon will automatically find the texture set (Normal, Roughness, etc.) or allow you to manually assign a single texture via the F9 panel.",
     "warning": "For automatic mode, texture names should follow the 'Name_Suffix.ext' format.",
-    "doc_url": "https://github.com/YOUR_USERNAME/blender-smart-textures", # <-- REPLACE WITH YOUR LINK
+    "doc_url": "https://github.com/shipworkshop/SHIP-DragNDrop-Texture", 
     "category": "Material",
 }
 
